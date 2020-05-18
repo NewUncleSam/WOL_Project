@@ -4,7 +4,8 @@ Sample project of Week of Learning Webathon
 
 ## Description
 
-For the webathon project, if you are not sure about what to create, you can make your project based on this project.
+Index.html is the main file
+I've added a few hovering buttons and some text changes are made
 
 ## Download
 
